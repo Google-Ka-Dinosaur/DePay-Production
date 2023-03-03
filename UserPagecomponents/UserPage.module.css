@@ -1,0 +1,73 @@
+.container-fluid{
+    --bs-gutter-x: 0;
+}
+
+.headings h5{
+    background-color: #f9bbed;
+    color: rgb(61, 6, 112);
+    border-radius: 0.5rem;
+    padding: .8rem 0;
+    z-index:4;
+}
+
+.headings h5:hover{
+    cursor: pointer;
+    background-color: rgb(61, 6, 112);
+    color: aliceblue;
+    border: 2px solid #f9bbed;
+}
+
+.cols {
+    padding-right: 0.3rem;
+    padding-left: 0.3rem;
+}
+
+.cols h4{
+    background-color: rgb(61, 6, 112);
+    color: aliceblue;
+    border-radius: 0.5rem;
+    padding: .3rem 0;
+}
+
+.sidebar{
+    margin-top: 0.3rem;
+    
+}
+
+.sidebar div{
+    padding: 0.60rem 1rem;
+}
+
+.sidebar div:hover{
+    cursor: pointer;
+    background-color: #f9bbed;
+    border-radius: 0.25rem;
+}
+
+.sidebar div img{
+    width:3rem;
+}
+
+.sp{
+    padding-top:0.25rem;
+    padding-left:0.25rem;
+}
+
+@media screen and (max-width: 720px){
+    .sidebar{
+        display: none;
+    }
+}
+.clicked h5{
+    cursor: pointer;
+    background-color: #f9bbed;
+    color: rgb(61, 6, 112);
+    border: 4px solid rgb(61, 6, 112);;
+}
+
+.clicked h5:hover{
+    cursor: pointer;
+    background-color: #f9bbed;
+    color: rgb(61, 6, 112);
+    border: 4px solid rgb(61, 6, 112);;
+}

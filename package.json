@@ -1,0 +1,29 @@
+{
+  "name": "depay-dev",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "test": "mocha"
+  },
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.1.7",
+    "eslint": "8.35.0",
+    "eslint-config-next": "13.2.3",
+    "fs-extra": "^11.1.0",
+    "ganache-cli": "^6.12.2",
+    "mdb-react-ui-kit": "^5.1.0",
+    "mocha": "^10.2.0",
+    "next": "13.2.3",
+    "next-routes": "^1.4.2",
+    "react": "18.2.0",
+    "react-bootstrap": "^2.7.2",
+    "react-dom": "18.2.0",
+    "react-social-icons": "^5.15.0",
+    "solc": "^0.8.17",
+    "web3": "^1.8.2"
+  }
+}

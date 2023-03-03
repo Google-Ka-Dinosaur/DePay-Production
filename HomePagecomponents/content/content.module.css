@@ -1,0 +1,58 @@
+.contents{
+    width: 100%;
+    /*background: linear-gradient(90deg, rgba(217,164,246,0.9949229691876751) 0%, rgba(185,243,245,0.8940826330532213) 100%);*/
+    background-color: snow;
+    background: linear-gradient(90deg, rgba(203,250,250,1) 49%, rgba(255,255,255,1) 100%);
+    color:rgb(61, 6, 112);
+}
+
+.contents h1{
+    font-size: 4rem;
+    text-align: center;
+    color:rgb(47, 13, 77);
+    font-family: Copperplate, Copperplate Gothic Light, fantasy;
+    font-weight: bolder;
+    margin-bottom: 2rem;
+}
+.marg{
+    margin-top: 4rem;
+}
+.contents h2{
+    margin-top:5rem ;
+    font-size: 2rem;
+    text-align: center;
+    color:rgb(47, 13, 77);
+    font-family: Copperplate, Copperplate Gothic Light, fantasy;
+    font-weight: bolder;
+    margin-top: 8rem;
+    margin-bottom: 2rem;
+}
+.about{
+    padding: 0 2rem;
+}
+.contents div{
+    font-size: 1.05em;
+    color:black;
+}
+.contents .about div{
+    text-align: justify;
+    font-family: Times, "Times New Roman", Georgia, serif;
+}
+.contents .about img{
+    height: 25em;
+    width: 40em;
+}
+.contents .mission img{
+    height:20em;
+    width:30em;
+    margin-top: -3em;
+}
+.contents .privacy img{
+    height:13em;
+    width:25em;
+    margin-left: 5em;
+}
+@media screen and (max-width: 720px){
+    .contents h1{
+        font-size: 2rem;}
+}

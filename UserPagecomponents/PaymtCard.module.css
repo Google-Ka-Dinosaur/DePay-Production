@@ -1,0 +1,22 @@
+
+    .pcards{
+    background-color: #c7fdff;
+    background-image: linear-gradient(62deg, #c7fdff 38%, #ffffff 85%);
+    color:rgb(61, 6, 112);
+}
+
+.logo{
+    /* margin-top: 0.5rem;
+    margin-left: 0.8rem; */
+    margin: auto;
+    width: 3.5rem;
+    height: 3.5rem;
+}
+.details{
+    display: flex;
+    justify-content: space-between;
+}
+.mar{
+    margin: 0;
+    height:2px;
+}
