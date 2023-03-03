@@ -26,12 +26,12 @@ const Features = props =>{
            <Card title='GLOBAL RECORD' text='We maintain a global record of all the data in order to ensure absolute
            transparency from our side. We respect the trust of our customers the most.'
            image="https://i.ibb.co/Msz20NL/Screenshot-22-removebg-preview.png" />
-           {/* <div className='col-md-4'><Card></Card></div> 
-           <div className='col-md-4'><Card></Card></div>
-           <div className='col-md-4'><Card></Card></div>
-           <div className='col-md-4'><Card></Card></div>
-           <div className='col-md-4'><Card></Card></div>
-           <div className='col-md-4'><Card></Card></div> */}
+            <Card title='INTEREST' text='The loan give and take back policy that we provide comes with an interest
+           calculation policy where total interest over due course of time is reflected.'
+           image="https://i.ibb.co/tXW6LHX/images-removebg-preview.png" />
+           <Card title='JOINT ACCOUNT' text='We provide a joint account policy where two persons can operate on a
+           single bank account. The access and approval lies with both. '
+           image="https://i.ibb.co/wpv9WQr/112-joint-account-hodling-removebg-preview.png" />
         </div>
     )
 }
