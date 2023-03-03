@@ -1,0 +1,16 @@
+body {
+  margin: 0px;
+  padding: 0px;
+}
+.main {
+  margin: 0px;
+  padding: 0px;
+  margin-right:0px;
+  width:100%;
+  background-color:white;
+  color: #FFFFFF;
+  font-family: 'Times New Roman', Georgia, serif;
+}
+.backdrop{
+  z-index:-99;
+}
