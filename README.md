@@ -1,4 +1,3 @@
-This is a web3 project focusing on the fintech sector
 
 ## DePay
 
