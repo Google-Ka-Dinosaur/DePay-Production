@@ -19,6 +19,9 @@
     cursor:pointer;
     padding:1px;
 }
+.pdt{
+    margin-left: 5px;
+}
 
 .box{
 display: flex;
