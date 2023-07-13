@@ -23,7 +23,7 @@ const Team = props =>{
         <div className={classes.ppl}>
         <img
           className={`d-block ${classes.image}`}
-        src=""https://i.ibb.co/LgPSX8L/pic2.png" 
+        src="https://i.ibb.co/LgPSX8L/pic2.png" 
         />
         <div>
           <p>
