@@ -8,7 +8,7 @@ const Team = props =>{
         <div className={classes.ppl}>
         <img
           className={`d-block ${classes.image}`}
-        src="https://i.ibb.co/bN3Sv8X/Screenshot-27.png" 
+        src="https://i.ibb.co/26gHGkX/pic1.png" 
         />
         <div>
           <h4>How to Install and Use Metamask on Google Chrome?</h4>
@@ -23,7 +23,7 @@ const Team = props =>{
         <div className={classes.ppl}>
         <img
           className={`d-block ${classes.image}`}
-        src="https://i.ibb.co/bN3Sv8X/Screenshot-27.png" 
+        src=""https://i.ibb.co/LgPSX8L/pic2.png" 
         />
         <div>
           <p>
